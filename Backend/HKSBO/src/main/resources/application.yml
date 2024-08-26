@@ -1,0 +1,16 @@
+server:
+  port: 8086
+
+database:
+  db2: "HKSBO"
+
+spring.datasource:
+  # driverClassName: "org.hibernate.dialect.PostgreSQLDialect"
+  #driverClassName: "org.db2.Driver"
+  url: "jdbc:db2://localhost:50000/${database.db2}"
+  username: "xxxxx"
+  password: "XXXXX"
+  
+spring.jpa:
+  show-sql: true
+  hibernate.ddl-auto: none

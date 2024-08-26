@@ -1,0 +1,30 @@
+[
+  {
+    "market":"HKEX",
+    "marketValue":1000000
+  },
+  {
+    "market":"MAMK",
+    "marketValue":500000
+  },
+  {
+    "market":"SZMK",
+    "marketValue":100000
+  },
+  {
+    "market":"USEX",
+    "marketValue":900000
+  },
+  {
+    "market":"FUND",
+    "marketValue":20000000
+  },
+  {
+    "market":"OTHER",
+    "marketValue":1000
+  },
+  {
+    "market":"BOND",
+    "marketValue":80000
+  }
+]
